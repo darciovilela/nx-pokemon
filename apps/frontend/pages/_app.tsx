@@ -7,6 +7,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Welcome to Pokemon Page!</title>
+        <link rel="icon" type="image/png" href="pokemon-favicon.png"></link>
       </Head>
       <div className="app">
         <main>
