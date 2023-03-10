@@ -1,0 +1,18 @@
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+input {
+  padding: 10px;
+  font-size: 18px;
+}
+
+ul {
+  font-size: 18px;
+}
+
