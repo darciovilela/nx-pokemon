@@ -8,7 +8,6 @@ A simple list of Pokemon's names with search feature using NX monorepo.
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
 
-## Run
-
-* Backend: nx serve:api
-* Frontend: nx frontend:serve
+## To run:
+* Clone repo
+* nx run-many --target=serve --all
