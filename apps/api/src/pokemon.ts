@@ -3,48 +3,48 @@ import type {Pokemon} from '@nx-pokemon/shared-types'
 
 export const pokemon:Pokemon[] = [
   
-  {
-    "id": 1,
-    "name": {
-      "english": "Bulbasaur",
-      "japanese": "フシギダネ",
-      "chinese": "妙蛙种子",
-      "french": "Bulbizarre"
-    },
-    "type": [
-      "Grass",
-      "Poison"
-    ],
-    "base": {
-      "hp": 45,
-      "attack": 49,
-      "defense": 49,
-      "special_attack": 65,
-      "special_defense": 65,
-      "speed": 45
-    }
-  },
-  {
-    "id": 2,
-    "name": {
-      "english": "Ivysaur",
-      "japanese": "フシギソウ",
-      "chinese": "妙蛙草",
-      "french": "Herbizarre"
-    },
-    "type": [
-      "Grass",
-      "Poison"
-    ],
-    "base": {
-      "hp": 60,
-      "attack": 62,
-      "defense": 63,
-      "special_attack": 80,
-      "special_defense": 80,
-      "speed": 60
-    }
-  },
+  // {
+  //   "id": 1,
+  //   "name": {
+  //     "english": "Bulbasaur",
+  //     "japanese": "フシギダネ",
+  //     "chinese": "妙蛙种子",
+  //     "french": "Bulbizarre"
+  //   },
+  //   "type": [
+  //     "Grass",
+  //     "Poison"
+  //   ],
+  //   "base": {
+  //     "hp": 45,
+  //     "attack": 49,
+  //     "defense": 49,
+  //     "special_attack": 65,
+  //     "special_defense": 65,
+  //     "speed": 45
+  //   }
+  // },
+  // {
+  //   "id": 2,
+  //   "name": {
+  //     "english": "Ivysaur",
+  //     "japanese": "フシギソウ",
+  //     "chinese": "妙蛙草",
+  //     "french": "Herbizarre"
+  //   },
+  //   "type": [
+  //     "Grass",
+  //     "Poison"
+  //   ],
+  //   "base": {
+  //     "hp": 60,
+  //     "attack": 62,
+  //     "defense": 63,
+  //     "special_attack": 80,
+  //     "special_defense": 80,
+  //     "speed": 60
+  //   }
+  // },
   {
     "id": 3,
     "name": {
